@@ -9,7 +9,6 @@ export const metadata: Metadata = {
   title: "Trading Journal - Track & Analyze Your Trades",
   description:
     "Professional trading journal to track, analyze and improve your trading performance across different systems and timeframes.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
