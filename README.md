@@ -1,8 +1,14 @@
-# 📊 Advanced Trading Journal
+# 📊 Trading Journal - Track & Analyze Your Trades
 
 A comprehensive, feature-rich trading journal application built with Next.js, TypeScript, and Tailwind CSS. Track, analyze, and improve your trading performance with advanced analytics, risk management tools, and detailed reporting.
 
+### Live Demo: 
+Visit: [Trading Journal Dashboard](https://trading-journal.khaliddev.com)
+
+### Screenshots of the Dashboard:
+
 ![Trading Journal Dashboard](trading-ss.png)
+![Trading Journal Dashboard All](ss-1.png)
 
 ## ✨ Features
 
